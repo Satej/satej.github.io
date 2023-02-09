@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+  {{ content }}
+  
+  <hr />
+  <br />
+  <br />
+  <u>LEAVE A COMMENT</u>
+  <br />
+  Comments are powered by <a href="https://utteranc.es/">Utterances</a>. A free <a href="https://github.com/">GitHub account</a> is required. <em>Comments are moderated</em>. <b>Be respectful. No swearing or inflammatory language. No spam.</b>
+  <br /><br />
+  <em>I reserve the right to delete any inappropriate comments.</em> All comments for all pages <a href="https://github.com/Satej/satej.github.io/issues">can be viewed and searched online here</a>.
+  
+  To edit or delete your comment: click the "Comments" link at the top of the comments section below where it says how many comments have been left (this will take you to a GitHub page with all comments for this page) --> find your comment on this GitHub page and click the 3 dots in the top-right --> click "Edit" or "Delete". Editing or adding a comment from the GitHub page also gives you a nicer editor.
+  
+  <script src="https://utteranc.es/client.js"
+          repo="satej/satej.github.io"
+          issue-term="pathname"
+          theme="preferred-color-scheme"
+          crossorigin="anonymous"
+          async>
+  </script>
+</article>
