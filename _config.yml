@@ -33,7 +33,7 @@ author:
   url: "https://satej.github.io"
 
 baseurl: /
-
+google_analytics: G-0LYMJWXQQZ
 source: .
 destination: ./_site
 permalink: /:title
