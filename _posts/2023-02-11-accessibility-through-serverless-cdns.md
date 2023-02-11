@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Deno Deploy"
+title:  "Accessibility through Serverless CDNs"
 date:   2023-02-11 00:00:00 +0000
-categories: deno deploy edge
+categories: deno deploy edge deployment cdn serverless
 ---
 Today, we will discussing the evolution of web app deployments focusing on accessibility in particular.
 
@@ -18,7 +18,6 @@ Today, we will discussing the evolution of web app deployments focusing on acces
 
 ![Frontend CDN Deployment](assets/post_images/2023-02-11/frontend-cdn-deployment.png)
 
-One mode of application deployment is to have a server serving API requests with a single page app hosted on another 
-Serverless is the new mode of API deployment taking the pain out of server management.
+- Serverless is the new mode of API deployment taking the pain out of server management. The fourth pattern kind of evolves from the third one above by replacing the hosted server with a CDN hosted serverless deployment of APIs. This now also enables the API requests to be faster by having them closer to the user's location. One such deployment mode is supported by [Deno Deploy](https://deno.com/deploy){:target="_blank"}. You can try it by [signing up](https://deno.com/deploy/pricing){:target="_blank"} for free.
 
-[region-specific home page](https://ap-south-1.console.aws.amazon.com/sumerianv2/home/){:target="_blank"}
+![Frontend Backend CDN Deployment](assets/post_images/2023-02-11/frontend-backend-cdn.png)
