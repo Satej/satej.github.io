@@ -2,7 +2,7 @@
 layout: post
 title:  "Redis Data Modelling Patterns ebook review"
 date:   2023-03-22 00:00:00 +0000
-categories: api ops apiops
+categories: redis data modelling patterns ebook review
 ---
 ![Learn 8 Data Modelling Patterns in Redis](../assets/post_images/2023-03-22/8-data-modeling-patterns-in-redis-feature.webp)
 
