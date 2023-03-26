@@ -13,7 +13,7 @@ To install it, open a powershell terminal and run below command:
 > irm get.scoop.sh | iex
 ```
 
-Scoop makes installing your apps a breezer. As the [site](https://scoop.sh){:target="_blank"} points out, scoop:
+Scoop makes installing your apps a breezer. It provides an easy to search interface to search for the app you want to install. As the [site](https://scoop.sh){:target="_blank"} points out, scoop:
 1. `Eliminates permission popup windows`
 2. `Hides GUI wizard-style installers`
 3. `Prevents PATH pollution from installing lots of programs`
