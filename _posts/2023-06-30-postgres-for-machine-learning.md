@@ -8,7 +8,7 @@ Machine learning is definitely picking up with the advent of LLMs. There are dif
 1. Using an API as a service similar to ChatGPT
 2. Hosting your own LLMs and passing your inputs through them
 
-One other way LLMs are being used is close to where data resides which is in the databases. Many data vendors like Google Bigquery, Databricks, Snowflake have found a way to run user inputs/requests by executing them in a SQL query where they are calling a particular function which accesses a LLM to process the input. While this is a nice feat, they are more proprietary in nature.
+One other way LLMs are being used is close to where data resides which is in the databases. Many data vendors like Google Bigquery, Databricks, Snowflake have found a way to run user inputs/requests by executing them in a SQL query where they are calling a particular function which accesses a LLM to process the input. While this is a nice feat, they are more proprietary in nature. A quick look at similar other databases with machine learning capability can be checked out [here](https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.html){:target="_blank"}.
 
 [PostgresML](https://github.com/postgresml/postgresml){:target="_blank"} is a machine learning extension to PostgreSQL that enables to perform training and inference on text and tabular data using SQL queries.
 
