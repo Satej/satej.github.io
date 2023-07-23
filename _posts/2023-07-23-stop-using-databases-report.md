@@ -6,7 +6,7 @@ categories: databases report datastax cassandra
 ---
 ![Stop using databases](../assets/post_images/2023-07-23/stop-using-databases.png)
 
-Book Report Name: [Stop using databases](https://pages.datastax.com/cnp-stop-using-databases.html){:target="_blank"}?
+Book Report Name: [Stop using databases](https://pages.datastax.com/cnp-stop-using-databases.html){:target="_blank"}
 
 Published by: Datastax
 
