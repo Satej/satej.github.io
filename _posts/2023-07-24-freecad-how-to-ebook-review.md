@@ -2,7 +2,7 @@
 layout: post
 title:  "Ebook Review - FreeCAD How to"
 date:   2023-07-24 00:00:00 +0000
-categories: iot projects nvidia jetson nano book ebook review
+categories: freecad packt ebook review
 ---
 ![FreeCAD How to](../assets/post_images/2023-07-24/freecad-how-to.jpeg)
 
