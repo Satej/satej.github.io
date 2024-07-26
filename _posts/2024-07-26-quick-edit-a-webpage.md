@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Quick edit any website"
+date:   2024-07-26 11:30:00 +0000
+categories: website edit javascript
+---
+Quick edit any website by entering the below snippet in your browser url.
+
+`javascript:document.body.contentEditable=true`
+
+Further reference [here](https://devrel.wearedevelopers.com/quicktricks/edit-pages/){:target="_blank"}.
