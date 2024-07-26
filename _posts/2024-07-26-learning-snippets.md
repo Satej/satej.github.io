@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Quick edit any website"
+title:  "Learning Snippets"
 date:   2024-07-26 11:30:00 +0000
-categories: website edit javascript
+categories: learning snippets
 ---
 1. Quick edit any website by entering the below snippet in your browser url.
 
