@@ -8,3 +8,4 @@ categories: learning snippets
 2. Interesting infographic: [Data Never Sleeps: AI Edition](https://www.domo.com/learn/infographic/data-never-sleeps-ai-edition){:target="_blank"}
 3. [Stacked PR](https://www.modular.com/blog/announcing-stack-pr-an-open-source-tool-for-managing-stacked-prs-on-github){:target="_blank"}: an open source tool for managing stacked PRs on GitHub.
 4. Cookbook on Using Airflow for Generative AI - [Register and Download](https://www.astronomer.io/ebooks/gen-ai-airflow-cookbook/){:target="_blank"}
+5. [Video learning series on using Gen AI with Airflow](https://academy.astronomer.io/introduction-to-genai-with-apache-airflow){:target="_blank"}
