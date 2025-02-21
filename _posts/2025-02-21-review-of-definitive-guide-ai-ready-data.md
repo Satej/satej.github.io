@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Definitive Guide to AI-Ready Data with Data Products – Book Review"
-date: 2024-02-21 00:00:00 +0000
+date: 2025-02-21 00:00:00 +0000
 categories: AI data-governance book-review
 ---
 
