@@ -4,7 +4,7 @@ title:  "Ebook review - Essential GraphRAG"
 date:   2025-08-16 00:00:00 +0000
 categories: ebook review essential graph rag neo4j knowledgegraph
 ---
-![Essential GraphRAG](../assets/post_images/2023-07-23/pytor)
+![Essential GraphRAG](https://dist.neo4j.com/wp-content/uploads/20250715075432/Essential-GraphRAG-768x964.png)
 
 Book Name: [Essential GraphRAG](https://neo4j.com/essential-graphrag/){:target="_blank"}
 Category: Free
