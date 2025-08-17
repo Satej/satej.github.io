@@ -16,8 +16,3 @@ Insights gained:
 Below you can find a snapshot of [my course completion certificate](https://learn.deeplearning.ai/accomplishments/997338a2-c678-4ff1-972e-def65e7f6214?usp=sharing){:target="_blank"}.
 
 ![Pydantic for LLM Workflows Course completion certificate](../assets/post_images/2025-08-17/pydantic-for-llm-workflows.png)
-<object data="../assets/post_images/2024-10-11/multi-modal-llama-3-2.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../assets/post_images/2024-10-11/multi-modal-llama-3-2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/post_images/2024-10-11/multi-modal-llama-3-2.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
